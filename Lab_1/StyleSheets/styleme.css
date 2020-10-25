@@ -1,0 +1,29 @@
+body {
+  background: #DFDFDF;
+  color: #4D4743;
+  font-family: "Franklin Gothic Demi", Verdana, Helvetica, sans-serif;
+}
+
+h1, h2 {
+  color: #000;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+p::first-letter { 
+  font-size: 1.5em;
+}
+
+.highlight, dt {
+  color: rgb(120, 13, 24);
+}
+
+footer {
+  margin-top: 20px;
+  text-align: center;
+}
